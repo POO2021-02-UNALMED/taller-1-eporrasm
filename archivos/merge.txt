@@ -1,3 +1,5 @@
-Emilio Porras
-20
-Aprender bastante sobre la programación y el trabajo en equipo
+
+
+al tener un elemento, sí pude hacer el commit y subir la carpeta.
+
+Hay que tener cuidado, ya que si no se tiene congruencia entre la versión local y la de la nube, puede dar lugar a conflictos entre archivos.
